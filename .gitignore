@@ -1,0 +1,23 @@
+# Build outputs
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Published output
+publish/
+
+# NuGet packages
+packages/
+*.nupkg
+*.nuspec
+
+# IDE
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
