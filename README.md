@@ -1,21 +1,21 @@
-# 📦 Inventory Management System
+# Inventory Management System
 
 A **CLI-based Inventory Management System** built with **C# (.NET 8)** using Object-Oriented Programming principles.
 
-## 🚀 Features
+## Features
 
 | Feature | Description |
 |---|---|
-| 🔐 Login System | Multi-user authentication with role-based access |
-| 📂 Category Management | Add and view product categories |
-| 🏭 Supplier Management | Add and view suppliers |
-| 📦 Product Management | Add, view, search, update, and delete products |
-| 📈 Stock Operations | Restock products or deduct stock |
-| 📊 Reports | Low stock alerts, total inventory value, summary |
-| 📋 Transaction History | Full audit trail of all inventory changes |
-| 👥 User Management | Admin can manage system users |
+| Login System | Multi-user authentication with role-based access |
+| Category Management | Add and view product categories |
+| Supplier Management | Add and view suppliers |
+| Product Management | Add, view, search, update, and delete products |
+| Stock Operations | Restock products or deduct stock |
+| Reports | Low stock alerts, total inventory value, summary |
+| Transaction History | Full audit trail of all inventory changes |
+| User Management | Admin can manage system users |
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 InventoryManagementSystem/
@@ -32,7 +32,7 @@ InventoryManagementSystem/
 └── InventoryManagementSystem.csproj
 ```
 
-## 🧱 OOP Concepts Used
+## OOP Concepts Used
 
 - **Classes & Objects** — 5 models + 2 service classes
 - **Constructors** — All models use parameterized constructors
@@ -42,14 +42,14 @@ InventoryManagementSystem/
 - **Methods** — Business logic separated into focused methods
 - **Exception Handling** — `try-catch` blocks with custom messages throughout
 
-## 🔑 Default Login Credentials
+## Default Login Credentials
 
 | Username | Password | Role |
 |---|---|---|
 | admin | admin123 | Admin |
 | manager1 | manager123 | Manager |
 
-## ▶️ How to Run
+## How to Run
 
 ### Prerequisites
 - [.NET 8 SDK](https://dotnet.microsoft.com/download)
@@ -65,7 +65,7 @@ cd InventoryManagementSystem
 dotnet run
 ```
 
-## 📋 Menu Overview
+## Menu Overview
 
 ```
 Main Menu
@@ -93,6 +93,6 @@ Main Menu
 └── 0. Logout
 ```
 
-## 📝 License
-
-For educational purposes — CIS/IT course project.
+## Developer
+Maryan Lusantas
+BS Information Technology
